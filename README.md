@@ -32,9 +32,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tawfiqur rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tawfiqur rahman" height="30" width="40" /></a>
-<a href="https://fb.com/tawfiqur rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tawfiqur rahman" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gametech bangladesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gametech bangladesh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tawfiqur-rahman27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tawfiqur rahman" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tawfiqur.rahman.581491" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tawfiqur rahman" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@GameTechBangladesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gametech bangladesh" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/tawfiq2729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tawfiq2729" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tawfiq2729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tawfiq2729" height="30" width="40" /></a>
 <a href="https://discord.gg/grooT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="grooT" height="30" width="40" /></a>
